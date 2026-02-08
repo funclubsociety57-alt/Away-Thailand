@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Open Trip Thailand – Away Day</title>
+  <style>
+    body { font-family: Arial; margin:0; background:#111; color:#fff; }
+    .hero { padding:60px; text-align:center; background:#b30000; }
+    .section { padding:40px; }
+    .card { background:#222; padding:20px; margin:20px 0; border-radius:10px; }
+    .btn { background:#b30000; padding:15px 25px; color:#fff; text-decoration:none; border-radius:8px; }
+  </style>
+</head>
+<body>
+
+<div class="hero">
+  <h1>OPEN TRIP THAILAND</h1>
+  <h2>Away Day Supporter [NAMA TIM]</h2>
+  <p>Harga mulai Rp 6.000.000 / pax</p>
+  <a href="[LINK GOOGLE FORM]" class="btn">DAFTAR SEKARANG</a>
+</div>
+
+<div class="section">
+  <div class="card">
+    <h3>Fasilitas</h3>
+    <ul>
+      <li>Tiket Pesawat PP</li>
+      <li>Hotel 2 Malam</li>
+      <li>Tiket Pertandingan</li>
+      <li>Transport Lokal</li>
+      <li>Tour Leader</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>Jadwal</h3>
+    <p>[Tanggal Keberangkatan]</p>
+  </div>
+
+  <div class="card">
+    <h3>Kontak</h3>
+    <p>WhatsApp: 08xxxxxxxx</p>
+    <p>Instagram: @xxxx</p>
+  </div>
+</div>
+
+</body>
+</html>
+
